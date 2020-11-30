@@ -1,0 +1,4 @@
+#Mon Nov 30 22:43:37 IST 2020
+base.0=/media/dhruvarora/New Volume/Dhruv Arora/Code/Flutter/summer_project_weather_app/build/app/intermediates/transforms/r8/release/0/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
